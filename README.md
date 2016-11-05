@@ -1,2 +1,2 @@
 # blog-post
-&emsp;&emsp;博客文章
+博客文章
