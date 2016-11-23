@@ -29,6 +29,7 @@ rm -rf .deploy_git
 hexo g
 
 // 发布
+git config remote.origin.url git@github.com:Xiahl1990/blog.git
 hexo d
 
 // 预览
